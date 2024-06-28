@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Zain
+- 👋 Hi, I’m Muhammad Zain, MERN Stack Developer.
 - 👀 I’m interested in Web & Mobile Apps Technologies.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on every kind of work.
