@@ -1,10 +1,46 @@
-- 👋 Hi, I’m Muhammad Zain, MERN Stack Developer.
-- 👀 I’m interested in Web & Mobile Apps Technologies.
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on every kind of work.
-- 📫 How to reach me zainrais333@gmail.com
+# 👋 Hi, I’m Muhammad Zain
 
-<!---
-Zain3333/Zain3333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Web & Mobile App Developer**  
+**MERN Stack | React Native | AI & ML Enthusiast**
+
+---
+
+## 🧑‍💻 About Me
+- 🔥 Passionate about building scalable **Web & Mobile Applications**
+- 🤖 Currently diving deep into **Artificial Intelligence (AI), Machine Learning (ML), and Generative AI**
+- 📱 Experienced in **React Native** for cross-platform mobile apps
+- ⚙️ Focused on writing **clean, efficient, and production-ready code**
+- 🤝 Open to **collaboration** on exciting projects in **Web, Mobile, and AI domains**
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:**  
+`React.js` | `Next.js` | `Redux Toolkit` | `TypeScript` | `Tailwind CSS` | `Material UI`
+
+**Backend:**  
+`Node.js` | `Express.js` | `MongoDB` | `MySQL` | `RESTful APIs`
+
+**Mobile:**  
+`React Native` | `Expo`
+
+**Cloud & Tools:**  
+`Firebase` | `Git & GitHub` | `Postman` | `AWS Basics`
+
+---
+
+## 📈 GitHub Stats
+![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zain3333&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain3333&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 📩 Email: **zainrais333@gmail.com**
+- 🌍 Portfolio: [zainrais333-portfolio.vercel.app](https://zainrais333-portfolio.vercel.app/)
+- 💻 GitHub: [github.com/Zain3333](https://github.com/Zain3333)
+
+---
+
+*Let's build impactful solutions together!* 🚀
